@@ -1,0 +1,62 @@
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="slash_reply" id="_a`_NT@aE:IG[1;(+jvl">
+<value name="CONTENT">
+<block type="text_join" id="f3-H9/0T?_`97TPW#-Za">
+<mutation items="3"/>
+<value name="ADD0">
+<block type="jg_text_remake_paragraph_quotes" id="8$l2aWMiali0.xbqm,bb">
+<field name="TEXT">Here your channel! </field>
+</block>
+</value>
+<value name="ADD1">
+<block type="options" id=";d,N`QL7aimtg,gt{V/O">
+<mutation mode="Member" type="null"/>
+<field name="SEARCH">Member</field>
+<value name="BOOLEAN">
+<block type="jg_text_remake_paragraph_quotes" id="UT/b|2j3woK)L=5SxpJh">
+<field name="TEXT">members</field>
+</block>
+</value>
+</block>
+</value>
+<value name="ADD2">
+<block type="options" id="JFJK-.Bqw;VTn:`7!jy$">
+<mutation mode="Role" type="null"/>
+<field name="SEARCH">Role</field>
+<value name="BOOLEAN">
+<block type="jg_text_remake_paragraph_quotes" id="L:ARR0?gj?8wkFz9vIzY">
+<field name="TEXT">members</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<value name="BOOLEAN">
+<block type="logic_boolean" id="aHc2HzjLgbo8eaCD0hx,">
+<field name="BOOL">TRUE</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
+</statement>
+</block>
+</statement>
+</block>
+<block type="jg_text_remake_paragraph_quotes" id="Hszs3ST2V`hpQ~nzgT_P" disabled="true" x="-253" y="751">
+<field name="TEXT">Name</field>
+</block>
+<block type="options" id="EcNLSF3^(@XI8a8QX{a;" disabled="true" x="-180" y="790">
+<mutation mode="Role" type="null"/>
+<field name="SEARCH">Role</field>
+</block>
+</xml>
